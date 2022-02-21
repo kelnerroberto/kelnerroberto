@@ -10,9 +10,9 @@ Well, I'm currently unemployed, which means that you can hire me anytime haha :s
 
 - 📫 How to reach me: You can contact me through email kelner250@hotmail.com or social medias below.
 
-! Twitter: @kelnerrs
-! Instagram: @kelnerqueiroz
-! Linkedin: https://www.linkedin.com/in/kelner-queiroz/
+- Twitter: @kelnerrs
+- Instagram: @kelnerqueiroz
+- Linkedin: https://www.linkedin.com/in/kelner-queiroz/
 
 <!--
 **kelnerroberto/kelnerroberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
