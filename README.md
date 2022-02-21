@@ -8,7 +8,7 @@ I've been studying web development since 2021, when I had my first contact with 
 
 Well, I'm currently unemployed, which means that you can hire me anytime haha :satisfied:.
 
-- 📫 How to reach me: You can contact me through email kelner250@hotmail.com or social medias below.
+### 📫 How to reach me: You can contact me through email kelner250@hotmail.com or social medias below.
 
 - Twitter: @kelnerrs
 - Instagram: @kelnerqueiroz
