@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- My name's Kelner, and I'm a fullstack developer from Brazil :brazil:
+### My name's Kelner, and I'm a fullstack developer from Brazil :brazil:
 
 - 📫 How to reach me: You can contact me through email kelner250@hotmail.com or social medias below
 
