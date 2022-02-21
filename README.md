@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## My name's Kelner, and I'm a fullstack developer from Brazil :brazil:
+
+- 📫 How to reach me: You can contact me through email kelner250@hotmail.com or social medias below
+
+
+
 <!--
 **kelnerroberto/kelnerroberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
