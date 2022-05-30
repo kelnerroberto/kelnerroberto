@@ -13,8 +13,8 @@ Well, I'm currently unemployed, which means that you can hire me anytime haha :s
 You can contact me through email kelnerroberto@gmail.com or social medias below.
 
 - Twitter: [@kelnerrs](https://twitter.com/kelnerrs).
-- Instagram: @kelnerqueiroz
-- Linkedin: https://www.linkedin.com/in/kelner-queiroz/
+- Instagram: [@kelnerqueiroz](https://www.instagram.com/kelnerqueiroz/).
+- Linkedin: [Kelner Queiroz](https://www.linkedin.com/in/kelner-queiroz/)
 
 <!--
 **kelnerroberto/kelnerroberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
