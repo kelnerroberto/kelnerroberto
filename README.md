@@ -4,7 +4,7 @@
 
 I've been studying web development since 2021, when I had my first contact with this world. Therefore, I'm kinda rookie, but still, I've learned so much since then.
 
-- 🌱 Now I'm learning Python, and trying to improve my logical skills.
+- 🌱 Now I'm learning Python, and trying to improve my logical thinking skills.
 
 Well, I'm currently unemployed, which means that you can hire me anytime haha :satisfied:.
 
