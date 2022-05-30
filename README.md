@@ -12,7 +12,7 @@ Well, I'm currently unemployed, which means that you can hire me anytime haha :s
 
 You can contact me through email kelnerroberto@gmail.com or social medias below.
 
-- Twitter: @kelnerrs[https://twitter.com/kelnerrs]
+- Twitter: (@kelnerrs)[https://twitter.com/kelnerrs]
 - Instagram: @kelnerqueiroz
 - Linkedin: https://www.linkedin.com/in/kelner-queiroz/
 
